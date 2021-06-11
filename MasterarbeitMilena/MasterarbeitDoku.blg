@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MasterarbeitDoku.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrtdin.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibliomasterarbeit.bib
+Database file #2: citavi/Abkowitz.bib
+Database file #3: citavi/course_keeping.bib
+Database file #4: citavi/overset_mesh.bib
+Database file #5: citavi/steeper_waves.bib
+Database file #6: citavi/relateiv_mesh_moving.bib
+Database file #7: citavi/head_waves.bib
+Database file #8: citavi/slower_ship.bib
+Warning--empty author in Hochbaum.21
+Warning--there's no year in Hochbaum.21
+Warning--empty author in KuraHochbaum
+Warning--there's no year in KuraHochbaum
+You've used 14 entries,
+            4011 wiz_defined-function locations,
+            872 strings with 8474 characters,
+and the built_in function-call counts, 7943 in all, are:
+= -- 802
+> -- 107
+< -- 283
++ -- 283
+- -- 36
+* -- 581
+:= -- 1139
+add.period$ -- 24
+call.type$ -- 14
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 189
+empty$ -- 707
+format.name$ -- 87
+if$ -- 1672
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 67
+newline$ -- 100
+num.names$ -- 12
+pop$ -- 74
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 365
+stack$ -- 0
+substring$ -- 977
+swap$ -- 58
+text.length$ -- 43
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 57
+width$ -- 16
+write$ -- 212
+(There were 4 warnings)
